@@ -14,7 +14,7 @@ A list of pointers to documents that are related to IDRNG can be found [here](ht
 
 **Discussion is mainly done in the mailing list. If you have new inputs, send them to the mailing list first.**
 
-** *A mailing list is under request.* **
+***The application for the mailing list is now in progress.***
 
 Now, if you have any suggestions/questions, you can send an email to <mailto:idrng.thu@gmail.com>.
 
