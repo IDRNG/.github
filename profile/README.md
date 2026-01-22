@@ -8,6 +8,8 @@ IDRNG is short for Next-Generation Inter-Domain Routing Architecture and Protoco
 
 ## IDRNG Related Documents
 
+The proposed charter for IDRNG can be found [here](https://github.com/IDRNG/IDRNG-Charter).
+
 A list of pointers to documents that are related to IDRNG can be found [here](https://github.com/IDRNG/IDRNG-Related-Materials).
 
 ## How to contribute
@@ -16,5 +18,5 @@ A list of pointers to documents that are related to IDRNG can be found [here](ht
 
 ***The application for the mailing list is now in progress.***
 
-Now, if you have any suggestions/questions, you can send an email to <mailto:idrng.thu@gmail.com>.
+Now, if you have any suggestions/questions or just show your interest in this topic, you can send an email to [idrng.thu@gmail.com](mailto:idrng.thu@gmail.com).
 
