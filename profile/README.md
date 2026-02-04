@@ -12,6 +12,10 @@ The proposed charter for IDRNG can be found [here](https://github.com/IDRNG/IDRN
 
 A list of pointers to documents that are related to IDRNG can be found [here](https://github.com/IDRNG/IDRNG-Related-Materials).
 
+## Past and On-going Meetings
+
+- [IETF 125 meeting](https://github.com/IDRNG/125meeting).
+
 ## How to contribute
 
 **Discussion is mainly done in the mailing list. If you have new inputs, send them to the mailing list first.**
