@@ -1,4 +1,4 @@
-# IDRNG - Next-Generation Inter-Domain Routing Architecture and Protocols Research Group
+# IDRNG - Next-Generation Inter-Domain Routing Architecture and Protocols
 
 ## About
 
