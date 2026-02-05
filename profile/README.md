@@ -12,15 +12,13 @@ The proposed charter for IDRNG can be found [here](https://github.com/IDRNG/IDRN
 
 A list of pointers to documents that are related to IDRNG can be found [here](https://github.com/IDRNG/IDRNG-Related-Materials).
 
-## Past and On-going Meetings
+## Past and Ongoing Meetings
 
-- [IETF 125 meeting](https://github.com/IDRNG/125meeting).
+- [IETF 125 Meeting](https://github.com/IDRNG/125meeting) — currently in progress, March 14–20, 2026, Shenzhen. Meeting materials are updated in real time.
 
 ## How to contribute
 
 **Discussion is mainly done in the mailing list. If you have new inputs, send them to the mailing list first.**
 
-***The application for the mailing list is now in progress.***
-
-Now, if you have any suggestions/questions or just show your interest in this topic, you can send an email to [idrng.thu@gmail.com](mailto:idrng.thu@gmail.com).
+If you have any suggestions/questions or just show your interest in this topic, you can send an email to [idrng@irtf.org](mailto:idrng@irtf.org).
 
