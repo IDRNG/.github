@@ -14,7 +14,7 @@ A list of pointers to documents that are related to IDRNG can be found [here](ht
 
 ## Past and Ongoing Meetings
 
-- [IETF 125 Meeting](https://github.com/IDRNG/125meeting) — currently in progress, March 14–20, 2026, Shenzhen. Meeting materials are updated in real time.
+- [IETF 125 Meeting](https://github.com/IDRNG/125meeting) — currently in progress, March 18, 2026, Shenzhen. Meeting materials are updated in real time.
 
 ## How to contribute
 
