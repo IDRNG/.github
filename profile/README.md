@@ -6,6 +6,8 @@ This is the repo for IDRNG-related materials.
 
 IDRNG is short for Next-Generation Inter-Domain Routing Architecture and Protocols.
 
+Mailing List: idrng@irtf.org. Subscribe the list at https://mailman3.irtf.org/mailman3/lists/idrng.irtf.org/.
+
 ## IDRNG Related Documents
 
 The proposed charter for IDRNG can be found [here](https://github.com/IDRNG/IDRNG-Charter).
