@@ -20,7 +20,7 @@ A list of pointers to documents that are related to IDRNG can be found [here](ht
 
 ## How to contribute
 
-**Discussion is mainly done in the mailing list. If you have new inputs, send them to the mailing list first.**
+**Discussion is mainly done in the mailing list. If you have new inputs, send them to the [mailing list](mailto:idrng@irtf.org) first.**
 
-If you have any suggestions/questions or just show your interest in this topic, you can send an email to [idrng@irtf.org](mailto:idrng@irtf.org).
+If you have any suggestions/questions or just show your interest in this topic, you can send an email to [idrng-owner@irtf.org](mailto:idrng-owner@irtf.org).
 
