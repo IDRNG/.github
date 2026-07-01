@@ -16,6 +16,7 @@ A list of pointers to documents that are related to IDRNG can be found [here](ht
 
 ## Past and Ongoing Meetings
 
+- [IETF 126 Meeting](https://github.com/IDRNG/126meeting) — July 22, 2026, Vienna. (Upcoming)
 - [IETF 125 Meeting](https://github.com/IDRNG/125meeting) — March 18, 2026, Shenzhen. [slides](https://github.com/IDRNG/125meeting/tree/main/slides) and [minutes](https://github.com/IDRNG/125meeting/blob/main/minutes.md) have been uploaded.
 
 ## How to contribute
